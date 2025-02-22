@@ -2,4 +2,4 @@
 This is my firstTime using Git
 
 My Name : SYED SUFIYAN PASHA <br>
-Aim : High Paying salary 
+Aim : Getting High Paying salary 
